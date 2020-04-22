@@ -59,8 +59,7 @@
     },
     "uniqCompNum": 4,
     "versionPublish": "4.12.3",
-    "screenshot": "screenshot.png",
-    "canonical-url": false
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
