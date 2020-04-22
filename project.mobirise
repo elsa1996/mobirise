@@ -42,7 +42,7 @@
     "robotsSwitcher": true,
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
-    "siteUrl": "http://elsanurlatifa.site",
+    "siteUrl": "http://www.elsanurlatifa.site",
     "gdpr": false,
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
     "cookiesAlert": {
@@ -59,7 +59,8 @@
     },
     "uniqCompNum": 4,
     "versionPublish": "4.12.3",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "canonical-url": false
   },
   "pages": {
     "index.html": {
